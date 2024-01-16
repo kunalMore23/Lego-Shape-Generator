@@ -1,2 +1,0 @@
-#define LEGOSHAPEFACTORY_API __declspec(dllexport)
-#define LEGOSHAPEFACTORY_API __declspec(dllimport)
